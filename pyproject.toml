@@ -2,9 +2,11 @@
 name = "drawgly"
 version = "0.1.0"
 description = ""
+license = "MIT"
 authors = ["fubin1999 <65430559+fubin1999@users.noreply.github.com>"]
 readme = "README.md"
 packages = [{ include = "drawgly" }]
+repository = "https://github.com/fubin1999/drawgly"
 
 [tool.poetry.dependencies]
 python = "^3.10"
